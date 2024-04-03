@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido a mi perfil! Soy Daniel Fernández Beré</h1>
-<h3 align="center">Estudiante apasionado de los videojuegos y la ciberseguridad</h3>
+<h3 align="center">Estudiante apasionado de los videojuegos y de la ciberseguridad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danitzm&label=Profile%20views&color=0e75b6&style=flat" alt="danitzm" /> </p>
 
